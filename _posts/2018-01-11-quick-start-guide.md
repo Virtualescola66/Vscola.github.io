@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Let's test spoilers"
-author: sal
+title:  "Un essai à deux balles"
+author: MC
 categories: [ Jekyll, tutorial ]
-image: assets/images/12.jpg
+image: assets/images/5.jpg
 featured: true
 hidden: true
 ---
