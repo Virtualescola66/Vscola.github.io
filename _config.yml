@@ -1,10 +1,10 @@
 # Site
 name: "Virtualescola"
 title: "Virtualescola"
-description: "Jekyll template, Medium styled, free for bloggers."
+description: "Tout ce qui touche de près ou de loin à l'école"
 logo: 'assets/images/logo.jpg'
 favicon: 'assets/images/logo.jpg'
-baseurl: /mediumish-theme-jekyll
+baseurl: https://virtualescola66.github.io/
 google_analytics: 
 disqus: 
 mailchimp-list: 
