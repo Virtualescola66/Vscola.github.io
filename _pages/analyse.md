@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A propos
-permalink: /NumEdu
+permalink: /Analyse
 comments: true
 ---
 
