@@ -3,8 +3,8 @@ name: "Virtualescola"
 title: "Virtualescola"
 description: "Tout ce qui touche de près ou de loin à l'école"
 logo: 'assets/images/logo.jpg'
-favicon: 'assets/images/logo.jpg'
-baseurl: https://virtualescola66.github.io/
+favicon: 'assets/images/favicon.jpg'
+baseurl: https://virtualescola66.github.io
 google_analytics: 
 disqus: 
 mailchimp-list: 
